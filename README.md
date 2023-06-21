@@ -3,6 +3,7 @@
 A macOS app where you can generate Stable Diffusion AI images locally, utilizing Apple's [ml-stable-diffusion](https://github.com/apple/ml-stable-diffusion/tree/48f07f24891155a14c51dd835bba7371bdf32d0e) API.
 
 ### Frameworks:
+- FileManager
 - CoreML
 - SwiftUI
 
